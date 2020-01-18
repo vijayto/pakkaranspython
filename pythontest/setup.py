@@ -3,15 +3,18 @@ import os
 import sys
 
 import setuptools
-
+from os.path import abspath, dirname, join, normpath
 
 def get_version_from_package() -> str:
-    path = os.path.join(os.path.dirname(__file__), "__init__.py")
-    path = os.path.normpath(os.path.abspath(path))
+    """
+    Read the package version from the source without importing it.
+    """
+    path = join(dirname(__file__), "__init__.py")
+    path = normpath(abspath(path))
     with open(path) as f:
         for line in f:
             if line.startswith("__version__"):
-                version = line.split(" = ", 1)
+                token, version = line.split(" = ", 1)
                 version = version.replace("'", "").strip()
                 return version
 

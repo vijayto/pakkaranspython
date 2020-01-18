@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: pakkaransdb
+Version: 0.0.1
+Summary: Pakkarans assistant
+Home-page: UNKNOWN
+Author: pocoyo
+Author-email: pocoyo@thomasvijay
+License: Apache License Version 2.0
+Description: Pakkarans assistant
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: Freely Distributable
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Requires-Python: >=3.5.*
+Description-Content-Type: text/markdown
