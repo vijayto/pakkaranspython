@@ -30,3 +30,9 @@ the tables and since tables are like 2 d arrays does the comparison
 - to get failed sitution, you can uncomment the commented out lines and the tests will fail
 - If the table to be compared is really huge, then i would recommend creating a hash code for each row, indexing the table
 and comparing those indexes in the other table. - provided you have access to copy table, manipulate etc
+
+# allure results
+navigate to test folder after running test 
+py.test --alluredir=pakkaransresults test.py
+brew install allure
+allure serve pakkaransresults - you will get allure results
