@@ -1,2 +1,4 @@
 pytest
 termcolor
+pytest-html
+allure-pytest

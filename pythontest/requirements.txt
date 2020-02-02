@@ -1,3 +1,5 @@
 pytest
 termcolor
 pytest-html
+allure-pytest
+pytest-allure-adaptor

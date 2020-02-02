@@ -1,0 +1,26 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test",
+    "children" : [ {
+      "name" : "test",
+      "children" : [ {
+        "name" : "test_compare_tables",
+        "uid" : "89064c38bb87a687",
+        "parentUid" : "545e43bb25d11c092ccb169c61b6745f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580670136838,
+          "stop" : 1580670136839,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "545e43bb25d11c092ccb169c61b6745f"
+    } ],
+    "uid" : "ff2b04dbb9c449a4d40723f51d841925"
+  } ]
+}

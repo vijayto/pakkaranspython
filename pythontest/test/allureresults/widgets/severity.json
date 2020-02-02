@@ -1,0 +1,11 @@
+[ {
+  "uid" : "89064c38bb87a687",
+  "name" : "test_compare_tables",
+  "time" : {
+    "start" : 1580670136838,
+    "stop" : 1580670136839,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

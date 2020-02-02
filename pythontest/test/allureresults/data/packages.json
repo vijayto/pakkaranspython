@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test.test",
+    "children" : [ {
+      "name" : "test_compare_tables",
+      "uid" : "89064c38bb87a687",
+      "parentUid" : "3fc0267ed33ebaa315174cc61d748565",
+      "status" : "passed",
+      "time" : {
+        "start" : 1580670136838,
+        "stop" : 1580670136839,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "test.test"
+  } ]
+}

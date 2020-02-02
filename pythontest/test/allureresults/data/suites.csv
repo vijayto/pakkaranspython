@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Feb 02 11:02:16 PST 2020","Sun Feb 02 11:02:16 PST 2020","1","test","test","","","","test_compare_tables",""

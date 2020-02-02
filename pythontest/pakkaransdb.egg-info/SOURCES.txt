@@ -1,3 +1,4 @@
+setup.cfg
 setup.py
 helpers/__init__.py
 helpers/helpers.py

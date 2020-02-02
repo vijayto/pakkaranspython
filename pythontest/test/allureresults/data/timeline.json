@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "INTUL173d0c0c8",
+    "children" : [ {
+      "name" : "60220-MainThread",
+      "children" : [ {
+        "name" : "test_compare_tables",
+        "uid" : "89064c38bb87a687",
+        "parentUid" : "3439962c15364fd8d6a0ecacc024aa19",
+        "status" : "passed",
+        "time" : {
+          "start" : 1580670136838,
+          "stop" : 1580670136839,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3439962c15364fd8d6a0ecacc024aa19"
+    } ],
+    "uid" : "8052764d24c21baac907d38b66df3014"
+  } ]
+}
