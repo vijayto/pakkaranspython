@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e76851-6b12-487d-b565-08a2e3e25b03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythontest/test/pakkaransresults/8c2a42b2-a67e-491f-b0c6-d9005780fa3d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/test/pakkaransresults/ef415055-8803-4632-a03f-227f5f3514a3-result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pakkaranspython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pakkaranspython.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythontest/test/100records.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythontest/test/FL_insurance_sample.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythontest/test/csvtohtml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythontest/test/pakkarans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythontest/pakkaransdb.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/pakkaransdb.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythontest/pakkaransdb.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/pakkaransdb.egg-info/requires.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythontest/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +58,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.gitparser">
+  <component name="RunManager" selected="Python.csvtohtml">
+    <configuration name="csvtohtml" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pakkaranspython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythontest/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythontest/test/csvtohtml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="gitparser" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="parser" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.csvtohtml" />
         <item itemvalue="Python.gitparser" />
         <item itemvalue="Python.test" />
       </list>
