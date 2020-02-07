@@ -8,4 +8,6 @@ pakkaransdb.egg-info/dependency_links.txt
 pakkaransdb.egg-info/requires.txt
 pakkaransdb.egg-info/top_level.txt
 test/__init__.py
+test/csvtohtml.py
+test/csvtohtmlnew.py
 test/test.py

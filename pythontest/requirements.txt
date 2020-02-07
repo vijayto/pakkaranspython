@@ -4,3 +4,5 @@ pytest-html
 allure-pytest
 pytest-allure-adaptor
 pandas
+PTable
+beautifulsoup4
