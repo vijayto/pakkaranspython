@@ -1,0 +1,7 @@
+Table,SourceCount,target Count,Status
+account,1123,1124,FAIL
+address,900,901,FAIL
+contacts,1123,1123,PASS
+credithist,1123,1124,FAIL
+cards,1123,1124,FAIL
+debit,1123,1124,FAIL
