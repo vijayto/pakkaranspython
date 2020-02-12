@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65e76851-6b12-487d-b565-08a2e3e25b03" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythontest/test/Input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/test/output.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythontest/test/output_formatted.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythontest/test/python_trimmer.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythontest/test/python_trimmer.py" afterDir="false" />
     </list>
@@ -209,6 +206,11 @@
           <url>file://$PROJECT_DIR$/pythontest/test/test.py</url>
           <line>12</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pythontest/test/python_trimmer.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
